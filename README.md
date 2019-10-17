@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## vabachoweb
+
+This project is UI module for Vabacho Web Application
+
+### `components`
+
+Create all React components for Vabacho using material ui and redux
+
+### `pages`
+
+Create all formes under this folder by having seperate folders at module level like designer, customer and admin etc..
+
 ## Available Scripts
 
 In the project directory, you can run:
